@@ -1,17 +1,17 @@
-# Stick Game
+Nim Stick Game
 
 Stick Game is a simple game where two players take turns removing sticks from piles. The goal of the game is to force the opponent to take the last stick. This is a graphical implementation of the game using Java Swing.
 
-## Description
+Description
 
 This Stick Game project is developed by Kushal Prajapati and provides a user-friendly interface for playing the Stick Game. The game allows two players to take turns removing sticks from piles and displays the current state of the game. It automatically detects the winning condition and announces the winner. The project is implemented in Java using the Java Swing library for creating the graphical user interface.
 
-## Prerequisites
+Prerequisites
 
 - Java Development Kit (JDK) installed
 - IDE or text editor to compile and run Java code
 
-## How to Run
+How to Run
 
 1. Clone the repository or download the source code files.
 2. Open the project in your preferred Java IDE or text editor.
@@ -23,7 +23,7 @@ This Stick Game project is developed by Kushal Prajapati and provides a user-fri
 8. The game status will be displayed in the text area, and the winner will be announced.
 9. Close the application window to exit the game.
 
-## Features
+Features
 
 - Graphical user interface (GUI) using Java Swing for an interactive gameplay experience.
 - Alternating turns between Player 1 and Player 2.
@@ -31,10 +31,6 @@ This Stick Game project is developed by Kushal Prajapati and provides a user-fri
 - Display of the current state of piles.
 - Notification of the current player's turn.
 - Automatic detection of the winning condition and announcement of the winner.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
